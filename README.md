@@ -1,5 +1,6 @@
 <h1 align="center">Hola 👋, Soy Jose Angel Villalon</h1>
 <h3 align="center">Soy estudiante de Ingenieria En Sistemas Computacionales</h3>
+<h3>En el Instituto Tecnológico de Morelia</h3>
 
 - 🔭 Estudio **la especialidad en Ingenieria de Software y desarrollo de aplicaciones moviles**
 
